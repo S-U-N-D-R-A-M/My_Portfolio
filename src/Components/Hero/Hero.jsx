@@ -21,11 +21,11 @@ const Hero = () => {
             Connect with me
           </AnchorLink>
         </div>
-        <div className="hero-resume">
+        {/* <div className="hero-resume">
           <a href="https://drive.google.com/file/d/1Oi5E5hpT1fAUWgaU-KBwnfrgC711hMOr/view?usp=drivesdk">
             My Resume
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
